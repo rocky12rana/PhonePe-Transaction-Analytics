@@ -171,7 +171,7 @@ Analyzed:
 - Failure cost
 - Service-level failure rates
 
-
+![Failure Analysis](Assets/Failure_Analysis.png)
 ---
 
 ## 6. User Growth Analysis
@@ -182,7 +182,7 @@ Analyzed:
 - Cumulative user growth
 - Month-over-month user growth
 
-
+![User Growth Analysis](Assets/User_Growth_Analysis.png)
 ---
 
 # 📈 Power BI Dashboard
