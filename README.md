@@ -149,7 +149,7 @@ Metrics analyzed:
 - Transaction growth
 - Transaction value growth
 
-
+![Growth Analysis](Assets/Growth_Analysis.png)
 ---
 
 ## 4. Service Analysis
@@ -160,7 +160,7 @@ Compared:
 - Transaction value by service
 - Average transaction value
 
-
+![Service Analysis](Assets/Service%20Analysis.png)
 ---
 
 ## 5. Failure Analysis
