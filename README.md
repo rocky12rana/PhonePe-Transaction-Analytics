@@ -202,7 +202,11 @@ The dashboard provides:
 - Failure analysis
 - Customer growth insights
 
+## Download Power BI Dashboard
 
+You can download and explore the interactive Power BI dashboard file here:
+
+[Download PhonePe Transaction Analysis Power BI Dashboard](PowerBI/Phonepe_Transaction_Analysis.pbix)
 ---
 
 # ⭐ Key Business Insights
