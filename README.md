@@ -134,7 +134,7 @@ Performed:
 - Monthly transaction volume analysis
 - Monthly transaction value analysis
 
-
+![Transaction Performance Analysis](Assets/Transaction_Performence_Analysis.png)
 ---
 
 ## 3. Growth Analysis
