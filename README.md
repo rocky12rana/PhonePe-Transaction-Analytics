@@ -124,7 +124,7 @@ Calculated important business metrics:
 - Transactions Per User
 - Value Per User
 
-
+![KPI Analysis](Assets/KPI.png)
 ---
 
 ## 2. Transaction Analysis
