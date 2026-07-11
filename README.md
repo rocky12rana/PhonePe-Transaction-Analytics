@@ -190,7 +190,7 @@ Analyzed:
 
 ## Dashboard Preview
 
-![PhonePe Dashboard](PowerBI_Dashboard/Dashboard_Screenshot.png)
+![PhonePe Dashboard](https://github.com/rocky12rana/PhonePe-Transaction-Analytics/blob/main/PowerBI/Phonepe_Transaction_Analysis_Dashboard.png)
 
 
 The dashboard provides:
